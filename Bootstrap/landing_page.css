@@ -1,0 +1,33 @@
+body{
+background-image: url(https://images.unsplash.com/photo-1529522560205-b5aef3f46189?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=82bb7b88a1e7e7399685aa4f92a0eafd&auto=format&fit=crop&w=1950&q=80);
+/*	background-repeat: no-repeat;*/
+	background-size: cover;
+	background-position: center;
+	font-family: Lobster Two;
+	color:black;
+}
+
+html{
+	height: 100%;
+}
+
+h1{
+	font-weight:normal;
+	font-size: 5em;
+}
+
+#content{
+	text-align: center;
+	
+	padding-top: 25%;	
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),   0px 8px 13px rgba(0,0,0, 0.1),	 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+hr{
+	width:400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+	color: black;
+	
+	
+}

@@ -1,0 +1,14 @@
+body{
+    color: aqua;
+}
+
+li{
+    border: 2px solid rgb(235, 153, 217);   
+}
+#important{
+    background: yellow;
+}
+
+.completed{
+    text-decoration: line-through;
+}

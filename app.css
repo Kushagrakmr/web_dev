@@ -1,0 +1,25 @@
+h1{
+    color: rebeccapurple;
+/*
+    border-color: deeppink;
+    border-width: 2px;
+    border-style: solid
+*/
+    border: 5px dashed red;
+}
+
+li{
+    color: #ff0000;
+}
+
+h3{
+    background: green;
+}
+
+body{
+        background-color: lightblue;
+/*
+    background: url(http://hd.wallpaperswide.com/thumbs/awesome_background-t2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}*/

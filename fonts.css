@@ -1,0 +1,39 @@
+p{
+    font-family:cursive;
+}
+
+h1{
+    font-family: Pacifico;
+}
+
+body{
+    font-size: 5px;
+}
+
+h1{
+    font-size: 20.0em;
+}
+
+p{
+    font-size: 5.0em;
+}
+
+span{
+    font-size: 2.0em;
+}
+
+p{ 
+    font-weight: normal;
+}
+
+p{
+    line-height: 1.5;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-decoration: line-throughon
+}
